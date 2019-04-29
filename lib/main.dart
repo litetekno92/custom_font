@@ -31,7 +31,7 @@ class _MyHomePageState extends State<MyHomePage> {
         fit: StackFit.expand,
         children: <Widget>[
           new Image(
-            image: new AssetImage("assets/background.png"),
+            image: new AssetImage("images/background.png"),
             fit: BoxFit.cover,
             colorBlendMode: BlendMode.lighten,
           ),
